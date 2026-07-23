@@ -174,3 +174,197 @@ Building AI solutions that solve real-world engineering problems.
 <img src="https://streak-stats.demolab.com?user=rattaneshguleria&theme=tokyonight&hide_border=true"/>
 
 </div>
+---
+
+# 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rattaneshguleria&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rattaneshguleria&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# ⚙ SYSTEM STATUS
+
+```text
+╔════════════════════════════════════════════════════════════╗
+
+ AI Core                     ████████████████ 100%
+
+ Machine Learning            ████████████████ 100%
+
+ Full Stack                  ██████████████░░ 90%
+
+ Computer Vision             ████████████░░░░ 80%
+
+ NLP                         ██████████████░░ 90%
+
+ Cloud                        ███████░░░░░░░░ 45%
+
+ Open Source                 █████████░░░░░░░ 60%
+
+╚════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# 🚀 FEATURED REPOSITORIES
+
+<div align="center">
+
+<a href="https://github.com/rattaneshguleria/AI-DOCUMENT-CLASSIFIER">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rattaneshguleria&repo=AI-DOCUMENT-CLASSIFIER&theme=tokyonight"/>
+
+</a>
+
+<a href="https://github.com/rattaneshguleria/security-vulnerability-framework">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rattaneshguleria&repo=security-vulnerability-framework&theme=tokyonight"/>
+
+</a>
+
+<a href="https://github.com/rattaneshguleria/DIABLO">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rattaneshguleria&repo=DIABLO&theme=tokyonight"/>
+
+</a>
+
+<a href="https://github.com/rattaneshguleria/aqi-ml-project">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rattaneshguleria&repo=aqi-ml-project&theme=tokyonight"/>
+
+</a>
+
+</div>
+
+---
+
+# 💻 DEVELOPMENT PHILOSOPHY
+
+```cpp
+while(alive)
+{
+    Learn();
+
+    Build();
+
+    Improve();
+
+    Share();
+
+    Repeat();
+}
+```
+
+---
+
+# 🧠 CURRENT LEARNING ROADMAP
+
+```text
+2026 ROADMAP
+
+██████████████████████████████████
+
+✔ Python Advanced
+
+✔ Machine Learning
+
+✔ Deep Learning
+
+✔ Computer Vision
+
+✔ Full Stack Development
+
+✔ REST APIs
+
+⬜ LangChain
+
+⬜ LangGraph
+
+⬜ RAG Systems
+
+⬜ Kubernetes
+
+⬜ AWS
+
+⬜ MLOps
+
+⬜ LLM Fine Tuning
+
+██████████████████████████████████
+```
+
+---
+
+# 📊 WEEKLY CODING FOCUS
+
+| Domain | Progress |
+|---------|----------|
+| 🤖 AI Development | ██████████████ 95% |
+| 🌐 Full Stack | ████████████ 85% |
+| 🧠 Machine Learning | █████████████ 90% |
+| 🐍 Python | ███████████████ 100% |
+| 📚 Learning | ███████████████ 100% |
+
+---
+
+# 📡 CONNECT WITH ME
+
+<div align="center">
+
+<a href="mailto:riu375541@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/rattaneshguleria">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+</div>
+
+---
+
+# 💭 FAVORITE QUOTE
+
+<div align="center">
+
+## "Artificial Intelligence is not about replacing humans. It's about amplifying human potential."
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider following me and starring my repositories.
+
+<img src="https://komarev.com/ghpvc/?username=rattaneshguleria&style=flat-square&color=58A6FF"/>
+
+</div>
