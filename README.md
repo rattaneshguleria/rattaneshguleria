@@ -35,3 +35,48 @@ Learning:
   - MLOps
   - Kubernetes
 ```
+## ⚙️ Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,express,mongodb,flask,docker,git,github,linux,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+
+</p>
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rattaneshguleria&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rattaneshguleria&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rattaneshguleria&theme=tokyonight&hide_border=true"/>
+
+</div>
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Document Classifier | NLP-powered document classification platform |
+| 🛡 Security Vulnerability Framework | AI-driven cybersecurity simulation |
+| 🌫 AQI Prediction | Machine Learning for air quality forecasting |
+| 🎙 Diablo | Python voice assistant with automation |
+| 🌆 UrbanSight | AI surveillance & computer vision |
+| 💬 Serenity | AI mental wellness chatbot |
+<div align="center">
+
+## 💭 Philosophy
+
+> *"Build things that solve problems, not just projects that fill a portfolio."*
+
+</div>
