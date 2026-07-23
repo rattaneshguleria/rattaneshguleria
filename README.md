@@ -368,3 +368,246 @@ while(alive)
 <img src="https://komarev.com/ghpvc/?username=rattaneshguleria&style=flat-square&color=58A6FF"/>
 
 </div>
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rattaneshguleria/rattaneshguleria/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rattaneshguleria/rattaneshguleria/output/github-contribution-grid-snake.svg">
+
+<img alt="github contribution snake" src="https://raw.githubusercontent.com/rattaneshguleria/rattaneshguleria/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+</div>
+
+---
+
+# 💻 TERMINAL
+
+```bash
+$ whoami
+
+> Rattanesh Guleria
+
+$ role
+
+> AI Systems Developer
+
+$ current_focus
+
+> Artificial Intelligence
+> Machine Learning
+> Computer Vision
+> Full Stack Development
+
+$ languages
+
+> Python
+> Java
+> JavaScript
+> C++
+
+$ frameworks
+
+> React
+> Node.js
+> Flask
+> Express
+
+$ mission
+
+> Build practical AI solutions that make an impact.
+
+$ status
+
+> READY
+```
+
+---
+
+# 🌌 AI ECOSYSTEM
+
+```text
+               INTERNET
+
+                    │
+
+        ┌───────────┴───────────┐
+
+        │                       │
+
+   React Frontend          Mobile Apps
+
+        │
+
+        ▼
+
+     Express API
+
+        │
+
+        ▼
+
+  Artificial Intelligence
+
+        │
+
+ ┌──────┼─────────────┐
+
+ │      │             │
+
+ NLP   ML       Computer Vision
+
+ │      │             │
+
+ └──────┼─────────────┘
+
+        ▼
+
+ MongoDB / SQL
+
+```
+
+---
+
+# ⚡ PROJECT HIGHLIGHTS
+
+🚀 AI Document Classifier
+
+• Intelligent NLP Pipeline
+
+• LLM Integration
+
+• n8n Automation
+
+• Modern React UI
+
+---
+
+🛡 Security Vulnerability Framework
+
+• Interactive Cyber Security
+
+• Vulnerability Simulations
+
+• Flask Backend
+
+• React Frontend
+
+---
+
+🎙 Diablo AI Assistant
+
+• Voice Recognition
+
+• Desktop Automation
+
+• Python
+
+• Whisper
+
+---
+
+🌫 AQI Prediction
+
+• Machine Learning
+
+• Regression
+
+• Clustering
+
+• Data Visualization
+
+---
+
+🌆 UrbanSight
+
+• YOLO
+
+• OpenCV
+
+• Object Detection
+
+• Smart Surveillance
+
+---
+
+💙 Serenity
+
+• AI Chatbot
+
+• Gemini API
+
+• MongoDB
+
+• Mental Wellness
+
+---
+
+# 📈 2026 GOALS
+
+```text
+████████████████████████████████████
+
+☑ Build 15+ AI Projects
+
+☑ Reach 500+ GitHub Contributions
+
+☑ Contribute to Open Source
+
+☑ Learn LangChain
+
+☑ Learn LangGraph
+
+☑ Build RAG Systems
+
+☑ Master Docker
+
+☑ Learn Kubernetes
+
+☑ Learn AWS
+
+☑ Internship @ Top Company
+
+████████████████████████████████████
+```
+
+---
+
+# 🔥 RANDOM DEV QUOTE
+
+<div align="center">
+
+> "First, solve the problem. Then, write the code."
+
+— John Johnson
+
+</div>
+
+---
+
+# ☕ SUPPORT
+
+If you appreciate my work...
+
+⭐ Star my repositories
+
+🍴 Fork them
+
+📢 Share them
+
+💙 Follow my GitHub journey
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:7B61FF&height=150&section=footer"/>
+
+</div>
