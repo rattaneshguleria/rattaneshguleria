@@ -15,3 +15,23 @@
 ### 🚀 Engineering intelligent software that transforms ideas into practical AI solutions.
 
 </div>
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"> About Me
+
+```yaml
+Name: Rattanesh Guleria
+Role: AI Systems Developer
+Education: B.Tech Computer Science @ LPU
+Location: India
+
+Currently Building:
+  - AI Applications
+  - NLP Systems
+  - Computer Vision Projects
+  - Full Stack Solutions
+
+Learning:
+  - RAG
+  - LangGraph
+  - MLOps
+  - Kubernetes
+```
