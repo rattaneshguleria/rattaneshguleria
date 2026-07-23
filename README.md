@@ -69,6 +69,50 @@ philosophy   build things that solve problems,
 
 ---
 
+### `~/activity --live`
+
+<!--START_SECTION:activity-->
+<!-- This block is rewritten automatically by activity.yml — leave it empty, don't edit by hand -->
+<!--END_SECTION:activity-->
+
+---
+
+### `~/metrics --render`
+
+<sub>Everything below this line is a real SVG, computed fresh from the GitHub API by <code>lowlighter/metrics</code> running in Actions — not a static badge template. Regenerates daily.</sub>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rattaneshguleria/rattaneshguleria/main/dist/metrics.svg" alt="GitHub metrics" width="100%" />
+</p>
+
+<details>
+<summary><code>~/metrics --isocalendar --full-year</code></summary>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rattaneshguleria/rattaneshguleria/main/dist/isocalendar.svg" alt="Full year contribution calendar" width="100%" />
+</p>
+</details>
+
+<details>
+<summary><code>~/metrics --habits</code> — coding hours/days breakdown</summary>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rattaneshguleria/rattaneshguleria/main/dist/habits.svg" alt="Coding habits" width="100%" />
+</p>
+</details>
+
+<details>
+<summary><code>~/contrib --snake</code></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rattaneshguleria/rattaneshguleria/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rattaneshguleria/rattaneshguleria/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/rattaneshguleria/rattaneshguleria/output/github-snake.svg" width="100%" />
+</picture>
+</details>
+
+---
+
 ### `~/skills --radar`
 
 ```mermaid
@@ -80,38 +124,6 @@ radar-beta
   max 100
   min 0
 ```
-
-<sub>If the radar doesn't render on your GitHub theme, it falls back to plain text — GitHub supports Mermaid natively in READMEs.</sub>
-
----
-
-### `~/stats --fetch`
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rattaneshguleria&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=6EE7B7&text_color=c9d1d9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rattaneshguleria&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rattaneshguleria&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" alt="trophies" />
-</p>
-
-<details>
-<summary><code>~/contrib --activity-graph</code></summary>
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rattaneshguleria&theme=github-compact&bg_color=0D1117&hide_border=true&color=00FF9C&line=6EE7B7&point=ffffff" width="100%" alt="activity graph" />
-</details>
-
-<details>
-<summary><code>~/contrib --snake</code></summary>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rattaneshguleria/rattaneshguleria/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rattaneshguleria/rattaneshguleria/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/rattaneshguleria/rattaneshguleria/output/github-snake.svg" width="100%" />
-</picture>
-<sub>Regenerates daily — see snake.yml workflow.</sub>
-</details>
 
 ---
 
