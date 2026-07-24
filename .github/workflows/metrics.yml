@@ -21,6 +21,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: dist/metrics.svg
           template: classic
+          config_display: compact
           base: header, activity, community, repositories
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
