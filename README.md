@@ -1,45 +1,44 @@
+<!-- HEADER -->
 <div align="center">
-
-```
-$ whoami
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=00FF9C&center=true&vCenter=true&width=650&height=40&lines=rattanesh_guleria" alt="whoami" />
-
-```
-$ cat status.log
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1200&color=6EE7B7&center=true&vCenter=true&multiline=true&width=750&height=80&lines=%5BOK%5D+AI+Systems+Developer+booted;%5BOK%5D+NLP+%2F+CV+/+Full+Stack+modules+loaded;%5B..%5D+RAG+%2B+LangGraph+%E2%80%94+training+in+progress" alt="status log" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Rattanesh%20Guleria&fontSize=60&color=0:0F2027,50:2C5364,100:00C9FF&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=AI%20Systems%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer&descAlignY=60&descSize=20" width="100%" alt="header" />
 </div>
 
-<br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&multiline=true&width=850&height=90&lines=Turning+data+into+decisions...;Building+AI+systems+that+actually+ship;Currently+exploring%3A+RAG+%2B+LangGraph" alt="typing" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rattaneshguleria&label=Profile+Views&color=00C9FF&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/github/followers/rattaneshguleria?label=Followers&style=flat-square&color=00C9FF" alt="followers" />
+</p>
+
+<p align="center">⚡ Engineering intelligent software that turns ideas into practical AI solutions.</p>
+
+---
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-### `~/about`
+### 👤 About Me
 
-```
-role         AI Systems Developer
-education    B.Tech CS @ LPU
-location     India
-focus        NLP · Computer Vision · Full Stack
-now_learning RAG, LangGraph, MLOps, Kubernetes
-philosophy   build things that solve problems,
-             not projects that fill a portfolio
-```
+- 🤖 Building **AI applications** across NLP, Computer Vision & automation
+- 🎓 B.Tech Computer Science @ LPU, India
+- 🧠 Currently deepening skills in **RAG, LangGraph, MLOps, Kubernetes**
+- 💡 Philosophy: *build things that solve problems, not projects that fill a portfolio*
 
 </td>
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 
-### `~/stack --list`
+### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,flask,react,nodejs,mongodb&perline=4" alt="stack" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs&perline=6" />
 <br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,docker,git,linux&perline=4" alt="ai stack" />
+<img src="https://skillicons.dev/icons?i=flask,mongodb,docker,git,linux,tensorflow&perline=6" />
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&perline=6" />
+</p>
 
 </td>
 </tr>
@@ -47,62 +46,114 @@ philosophy   build things that solve problems,
 
 ---
 
-### `~/projects --ls -la`
+## 🚀 Featured Work
 
-| # | name | type | stack |
-|---|------|------|-------|
-| 01 | **AI Document Classifier** | NLP pipeline | `Python` `NLP` |
-| 02 | **Security Vulnerability Framework** | Cybersecurity sim | `Python` `Security` |
-| 03 | **AQI Prediction** | Forecasting model | `Scikit-Learn` `Data` |
-| 04 | **Diablo** | Voice assistant | `Python` `Automation` |
-| 05 | **UrbanSight** | Computer vision | `OpenCV` `CV` |
-| 06 | **Serenity** | Wellness chatbot | `Flask` `AI` |
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-<sub>Update the links below to point at each repo once pushed.</sub>
+**🤖 AI Document Classifier**
+<br><sub>NLP-powered document classification platform</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Python-0F2027?style=flat-square&logo=python&logoColor=00C9FF"/>
+<img src="https://img.shields.io/badge/NLP-2C5364?style=flat-square"/>
 <br>
-<a href="https://github.com/rattaneshguleria">01</a> ·
-<a href="https://github.com/rattaneshguleria">02</a> ·
-<a href="https://github.com/rattaneshguleria">03</a> ·
-<a href="https://github.com/rattaneshguleria">04</a> ·
-<a href="https://github.com/rattaneshguleria">05</a> ·
-<a href="https://github.com/rattaneshguleria">06</a>
+<a href="https://github.com/rattaneshguleria">🔗 View repo</a>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🛡 Security Vulnerability Framework**
+<br><sub>AI-driven cybersecurity simulation</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Python-0F2027?style=flat-square&logo=python&logoColor=00C9FF"/>
+<img src="https://img.shields.io/badge/Security-2C5364?style=flat-square"/>
+<br>
+<a href="https://github.com/rattaneshguleria">🔗 View repo</a>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🌫 AQI Prediction**
+<br><sub>ML-based air quality forecasting</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Scikit--Learn-0F2027?style=flat-square&logo=scikitlearn&logoColor=00C9FF"/>
+<img src="https://img.shields.io/badge/Data-2C5364?style=flat-square"/>
+<br>
+<a href="https://github.com/rattaneshguleria">🔗 View repo</a>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+**🎙 Diablo**
+<br><sub>Python voice assistant with automation</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Python-0F2027?style=flat-square&logo=python&logoColor=00C9FF"/>
+<img src="https://img.shields.io/badge/Automation-2C5364?style=flat-square"/>
+<br>
+<a href="https://github.com/rattaneshguleria">🔗 View repo</a>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🌆 UrbanSight**
+<br><sub>AI surveillance & computer vision</sub>
+<br><br>
+<img src="https://img.shields.io/badge/OpenCV-0F2027?style=flat-square&logo=opencv&logoColor=00C9FF"/>
+<img src="https://img.shields.io/badge/CV-2C5364?style=flat-square"/>
+<br>
+<a href="https://github.com/rattaneshguleria">🔗 View repo</a>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**💬 Serenity**
+<br><sub>AI mental wellness chatbot</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Flask-0F2027?style=flat-square&logo=flask&logoColor=00C9FF"/>
+<img src="https://img.shields.io/badge/AI-2C5364?style=flat-square"/>
+<br>
+<a href="https://github.com/rattaneshguleria">🔗 View repo</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### `~/activity --live`
+## 📡 Live Activity
 
 <!--START_SECTION:activity-->
-<!-- This block is rewritten automatically by activity.yml — leave it empty, don't edit by hand -->
 <!--END_SECTION:activity-->
 
 ---
 
-### `~/metrics --render`
-
-<sub>Everything below this line is a real SVG, computed fresh from the GitHub API by <code>lowlighter/metrics</code> running in Actions — not a static badge template. Regenerates daily.</sub>
+## 📊 Metrics Dashboard
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rattaneshguleria/rattaneshguleria/main/dist/metrics.svg" alt="GitHub metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/rattaneshguleria/rattaneshguleria/main/dist/metrics.svg" alt="metrics" width="100%" />
 </p>
 
 <details>
-<summary><code>~/metrics --isocalendar --full-year</code></summary>
+<summary><b>📅 Full-year contribution calendar</b></summary>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rattaneshguleria/rattaneshguleria/main/dist/isocalendar.svg" alt="Full year contribution calendar" width="100%" />
+  <img src="https://raw.githubusercontent.com/rattaneshguleria/rattaneshguleria/main/dist/isocalendar.svg" alt="isocalendar" width="100%" />
 </p>
 </details>
 
 <details>
-<summary><code>~/metrics --habits</code> — coding hours/days breakdown</summary>
+<summary><b>⏱️ Coding habits</b></summary>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rattaneshguleria/rattaneshguleria/main/dist/habits.svg" alt="Coding habits" width="100%" />
+  <img src="https://raw.githubusercontent.com/rattaneshguleria/rattaneshguleria/main/dist/habits.svg" alt="habits" width="100%" />
 </p>
 </details>
 
 <details>
-<summary><code>~/contrib --snake</code></summary>
+<summary><b>🐍 Contribution snake</b></summary>
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rattaneshguleria/rattaneshguleria/output/github-snake-dark.svg" />
@@ -111,35 +162,28 @@ philosophy   build things that solve problems,
 </picture>
 </details>
 
----
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rattaneshguleria&show_icons=true&theme=dracula&hide_border=true&bg_color=0F2027&title_color=00C9FF&icon_color=2C5364" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rattaneshguleria&layout=compact&theme=dracula&hide_border=true&bg_color=0F2027&title_color=00C9FF" />
+</p>
 
-### `~/skills --radar`
-
-```mermaid
-%%{init: {"theme": "dark"}}%%
-radar-beta
-  axis nlp["NLP"], cv["Computer Vision"], backend["Backend"], ml["ML/DS"], devops["DevOps"], frontend["Frontend"]
-  curve me["Rattanesh"]{85, 75, 80, 78, 55, 60}
-  showLegend false
-  max 100
-  min 0
-```
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rattaneshguleria&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" alt="trophies" />
+</p>
 
 ---
 
 <div align="center">
 
-### `~/connect --socials`
+## 🌐 Let's Connect
 
-<a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="YOUR_TWITTER_URL_HERE"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="YOUR_TWITTER_URL_HERE"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<sub>views: <img src="https://komarev.com/ghpvc/?username=rattaneshguleria&label=&style=flat-square&color=00FF9C" height="16" style="vertical-align:middle" /></sub>
-
-```
-$ exit
-process finished with exit code 0
-```
+<br><br>
+<i>"Build things that solve problems, not just projects that fill a portfolio."</i>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C9FF,100:0F2027&section=footer" width="100%" alt="footer" />
