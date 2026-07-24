@@ -2,8 +2,8 @@ name: Recent Activity
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch: {}
+ on:
+     workflow_dispatch: {}
 
 permissions:
   contents: write
