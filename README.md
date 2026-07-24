@@ -56,14 +56,14 @@
 ---
 
 <h3 align="center">
-  <a href="#" style="text-decoration:none;color:#00C9FF;text-shadow:0 0 12px #00C9FF;">🧠 Build Mode: Active</a>
+  <a href="#" style="text-decoration:none;color:#00C9FF;text-shadow:0 0 12px #00C9FF;">🧠 Cortex Overclocking Mode</a>
 </h3>
 
-> ⚙️ **Learning Protocol: RUNNING**
-> 🎯 Consistency beats intensity.
-> 🛠️ Every bug fixed is a lesson kept.
-> 🔥 Ship first, polish after.
-> 🌌 The best projects start as small, stubborn ideas.
+> ⚙️ **Quantum Learning Protocol: ACTIVE**
+> 🎯 Focus compounds — small reps beat sudden bursts.
+> 🛠️ Debugging is just thinking out loud, slower.
+> 🔥 Momentum is built, not found.
+> 🌌 The best ideas show up mid-commit, not mid-meeting.
 
 ---
 
@@ -212,6 +212,14 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rattaneshguleria&theme=react-dark&bg_color=0D1117&hide_border=true&color=00C9FF&line=6EE7B7&point=FFFFFF" width="100%" alt="Rattanesh's GitHub Activity Graph"/>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rattaneshguleria&theme=dark&hide_border=true&background=0D1117&ring=00C9FF&fire=00C9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00C9FF&sideLabels=FFFFFF&dates=6B7280" alt="GitHub Streak Stats" />
 </div>
 
 ---
