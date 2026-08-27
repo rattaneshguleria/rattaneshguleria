@@ -219,7 +219,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.vercel.app/?user=rattaneshguleria&theme=dark&hide_border=true&background=0D1117&ring=00C9FF&fire=00C9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00C9FF&sideLabels=FFFFFF&dates=6B7280" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rattaneshguleria&theme=dark&hide_border=true&background=0D1117&ring=00C9FF&fire=00C9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00C9FF&sideLabels=FFFFFF&dates=6B7280" alt="GitHub Streak Stats" />
 </div>
 
 ---
