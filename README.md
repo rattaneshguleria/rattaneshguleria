@@ -20,7 +20,7 @@
 
   <img src="https://img.shields.io/github/followers/rattaneshguleria?label=Followers&color=7c3aed&style=flat-square" alt="Followers" />
 
-  <img src="https://img.shields.io/badge/Total%20Stars-0-7c3aed?style=flat-square" alt="Total Stars" />
+  <img src="https://raw.githubusercontent.com/rattaneshguleria/rattaneshguleria/main/stats/stars.svg" alt="Total Stars" />
 
 </div>
 
