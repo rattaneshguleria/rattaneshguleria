@@ -1,0 +1,63 @@
+name: Update Total Stars
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Calculate total stars
+        id: stars
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TOTAL_STARS=$(gh api \
+            --paginate \
+            "/users/rattaneshguleria/repos?per_page=100&type=owner" \
+            --jq '.[].stargazers_count' \
+            | awk '{sum += $1} END {print sum+0}')
+
+          echo "Total Stars: $TOTAL_STARS"
+          echo "TOTAL_STARS=$TOTAL_STARS" >> "$GITHUB_OUTPUT"
+
+      - name: Generate stars badge
+        env:
+          TOTAL_STARS: ${{ steps.stars.outputs.TOTAL_STARS }}
+        run: |
+          mkdir -p stats
+
+          cat > stats/stars.svg <<EOF
+          <svg xmlns="http://www.w3.org/2000/svg" width="180" height="28">
+            <rect width="180" height="28" rx="4" fill="#7c3aed"/>
+            <text x="90" y="19"
+                  text-anchor="middle"
+                  font-family="Arial, sans-serif"
+                  font-size="13"
+                  font-weight="bold"
+                  fill="white">⭐ Total Stars ${TOTAL_STARS}</text>
+          </svg>
+          EOF
+
+      - name: Commit updated badge
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add stats/stars.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update total stars"
+            git push
+          fi
