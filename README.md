@@ -13,6 +13,13 @@
 </div>
 
 ---
+<!-- PROFILE STATS -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rattaneshguleria&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rattaneshguleria?label=Followers&color=7c3aed&style=flat-square" alt="Followers" />
+</div>
+
+---
 
 <table>
   <tr>
