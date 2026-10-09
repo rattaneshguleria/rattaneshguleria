@@ -248,7 +248,8 @@
   <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
   <br><br>
-  🏆 <b>Fun Fact:</b> Most of my best fixes happened at 2 AM.
+  🏆 <b>Fun Fact:</b> Most of my best fixes happened at 2 AM. yoooooooooooooooooo
+  
   <hr style="border: none; height: 2px; background: linear-gradient(90deg, #0F2027, #2C5364, #00C9FF);">
   <h3>✨ Building quietly. Shipping consistently. ✨</h3>
 </div>
