@@ -36,7 +36,7 @@
       <p><i>⚡ <b>$ run Rattanesh --mode:build</b> Turning ideas into AI systems that actually ship.<br>
       Every project starts as a question — and ends as something that works.</i></p>
       <p><i>⚡ <b>$ init Rattanesh --focus=ai_systems</b> NLP, computer vision, and full stack, stitched together.<br>
-      Progress isn't loud — it's just consistent.</i></p>
+      Progress isn't loud — it's just consistenttttttttttt.</i></p>
     </td>
   </tr>
 </table>
