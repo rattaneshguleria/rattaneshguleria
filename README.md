@@ -251,7 +251,7 @@
   🏆 <b>Fun Fact:</b> Most of my best fixes happened at 2 AM. for real 
   
   <hr style="border: none; height: 2px; background: linear-gradient(90deg, #0F2027, #2C5364, #00C9FF);">
-  <h3>✨ Building quietly. Shipping consistently. ✨</h3>
+  <h3>✨ Building quietly. Shipping consistently nnnnnnnnnnnnnnnnnnn. ✨</h3>
 </div>
 
 <!-- DYNAMIC FOOTER -->
