@@ -156,7 +156,7 @@
 <h3 align="center">🎙 Diablo</h3>
 
 <p align="center">
-<i>Python voice assistant that automates everyday tasks through natural voice commands.</i>
+<i>Python voice assistant that automates everyday tasks through natural voice commandssssssssss.</i>
 </p>
 
 <p align="center">
