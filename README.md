@@ -74,7 +74,7 @@
 > ⚙️ **Quantum Learning Protocol: ACTIVE**
 > 🎯 Focus compounds — small reps beat sudden bursts.
 > 🛠️ Debugging is just thinking out loud, slower.
-> 🔥 Momentum is built, not found.
+> 🔥 Momentum is built, not founddddd.
 > 🌌 The best ideas show up mid-commit, not mid-meeting.
 
 ---
