@@ -83,18 +83,21 @@
   <tr>
     <td width="33%" valign="top" align="center">
       <h4>🔭 Learning</h4>
+      <p><i>Retrieval pipelines, agent workflows, and taking ML models from notebook to production.</i></p>
       <img src="https://img.shields.io/badge/RAG-in_progress-00C9FF?style=flat-square" /><br>
       <img src="https://img.shields.io/badge/LangGraph-in_progress-00C9FF?style=flat-square" /><br>
       <img src="https://img.shields.io/badge/MLOps-in_progress-00C9FF?style=flat-square" />
     </td>
     <td width="33%" valign="top" align="center">
       <h4>🛠️ Building</h4>
+      <p><i>AI systems that actually ship, from computer vision to full stack apps.</i></p>
       <img src="https://img.shields.io/badge/AI_Systems-shipping-6EE7B6?style=flat-square" /><br>
       <img src="https://img.shields.io/badge/Vision-shipping-6EE7B6?style=flat-square" /><br>
       <img src="https://img.shields.io/badge/Full_Stack-shipping-6EE7B6?style=flat-square" />
     </td>
     <td width="33%" valign="top" align="center">
       <h4>🤝 Open To</h4>
+      <p><i>Team projects, internships, and open source work where I can build and learn.</i></p>
       <img src="https://img.shields.io/badge/Collaborations-open-7c3aed?style=flat-square" /><br>
       <img src="https://img.shields.io/badge/Internships-open-7c3aed?style=flat-square" /><br>
       <img src="https://img.shields.io/badge/Open_Source-open-7c3aed?style=flat-square" />
