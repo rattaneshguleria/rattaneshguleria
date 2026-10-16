@@ -79,7 +79,7 @@
 
 ## 🧭 Current Focus
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top" align="center">
       <h4>🔭 Learning</h4>
@@ -90,7 +90,7 @@
     <td width="33%" valign="top" align="center">
       <h4>🛠️ Building</h4>
       <img src="https://img.shields.io/badge/AI_Systems-shipping-6EE7B6?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/Computer_Vision-shipping-6EE7B6?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Vision-shipping-6EE7B6?style=flat-square" /><br>
       <img src="https://img.shields.io/badge/Full_Stack-shipping-6EE7B6?style=flat-square" />
     </td>
     <td width="33%" valign="top" align="center">
