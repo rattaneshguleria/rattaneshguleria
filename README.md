@@ -1,6 +1,6 @@
 <!-- DYNAMIC HEADER: Auto-updates with Capsule Render -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Rattaaanesh%20Guleria&fontSize=62&color=0:0F2027,50:2C5364,100:00C9FF&fontColor=fff&stroke=00C9FF&strokeWidth=2&animation=twinkling&fontAlignY=55&desc=AI%20Systems%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=70" width="100%" alt="Dynamic Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Rattaaaanesh%20Guleria&fontSize=62&color=0:0F2027,50:2C5364,100:00C9FF&fontColor=fff&stroke=00C9FF&strokeWidth=2&animation=twinkling&fontAlignY=55&desc=AI%20Systems%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=70" width="100%" alt="Dynamic Header"/>
 </div>
 
 <!-- LIVE TYPING: Updates every refresh -->
